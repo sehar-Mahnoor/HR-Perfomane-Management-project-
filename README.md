@@ -1,4 +1,4 @@
-# HR-Perfomane-Management-project
+# HR-Performane-Management-project
 A BBA academic project on performance management, KPIs, SMART goals, employee feedback, and performance reviews.
 # Overview
 This academic project focuses on designing an effective Performance Management System for an organization.
